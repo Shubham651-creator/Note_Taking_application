@@ -3,6 +3,8 @@ plugins {
     alias(libs.plugins.kotlin.android)
 
     id("androidx.navigation.safeargs")
+    id("org.jetbrains.kotlin.plugin.parcelize")
+
     kotlin("kapt") version "2.2.0"
 }
 
