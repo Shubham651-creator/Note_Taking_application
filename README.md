@@ -1,6 +1,7 @@
 # 📝 Note Taking Application
 
 A simple and intuitive **Note Taking Android Application** built using **Kotlin**, **XML**, **Room Database**, and **MVVM Architecture**.
+<img width="497" height="501" alt="image" src="https://github.com/user-attachments/assets/dba7ed51-a56a-4225-9f75-312e6a8f3af2" />
 
 ## 📱 Features
 
@@ -56,4 +57,5 @@ This project is licensed for educational and personal use.
 ---
 
 Happy Noting! ✨
+
 
