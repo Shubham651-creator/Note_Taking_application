@@ -68,8 +68,10 @@ dependencies {
     // Navigation
     val nav_version = "2.9.1"
     // Views/Fragments integration
-    implementation("androidx.navigation:navigation-fragment:$nav_version")
-    implementation("androidx.navigation:navigation-ui:$nav_version")
+//    implementation("androidx.navigation:navigation-fragment:$nav_version")
+//    implementation("androidx.navigation:navigation-ui:$nav_version")
+    implementation("androidx.navigation:navigation-fragment-ktx:+")
+    implementation("androidx.navigation:navigation-ui-ktx:+")
 
     // Lifecycle
     val lifecycle_version = "2.9.1"
